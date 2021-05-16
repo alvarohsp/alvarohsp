@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alvarohsp
+- 👀 I’m interested in Anime, Japan, Javascript...
+- 🌱 I’m currently learning Javascript, HTML, NodeJs, Angular
+- 💞️ I’m looking to collaborate on Bot projects
+- 📫 How to reach me alvaro.hpandelo@hotmail.com
